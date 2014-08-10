@@ -1,0 +1,22 @@
+{
+  "name": "Meadowlark",
+  "version": "0.0.1",
+  "description": "A travel website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "mtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git meadow"
+  },
+  "keywords": [
+    "mkey"
+  ],
+  "author": "vibhuti",
+  "license": "123",
+  "dependencies": {
+    "express": "^4.8.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
